@@ -1,0 +1,11 @@
+[user]
+    email = naoya.mutou@gmail.com
+    name = Naoya Muto
+[color]
+    ui = auto
+[alias]
+    co = checkout
+    st = status
+    cm = commit
+[ghq]
+    root = ~/Development/src
